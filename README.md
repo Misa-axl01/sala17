@@ -1,5 +1,5 @@
 # sala17
 Sala17(Misael Terrez &amp; Martin Cuauhtli
-*Working Directory :grinning:
-*Staging Area :smile:
-*Rama Main :satisfied:
+-**_Working Directory_** :grinning:
+-**_Staging Area_** :smile:
++**_Rama Main_** :satisfied:
